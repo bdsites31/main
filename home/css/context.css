@@ -1,0 +1,40 @@
+img.logo {
+    width: 60%;
+}
+
+.center{
+    text-align: center;
+}
+
+.Banner {
+    color: white;
+	font-family:"courier";
+	font-weight: lighter;
+
+    font-size: 300%;
+}
+
+.sidetext {
+    color: #c9c9c9;
+	font-family:"courier";
+	font-weight: lighter;
+    font-size: 200%;
+    line-height: 0;
+}
+
+.white {
+    color: white;
+    font-size:90%;
+}
+
+.topic {
+    position: relative;
+    left: 10%;
+}
+
+.textbox1 {
+    margin: 1%;
+    padding: 3%;
+    border: 3px double #ffffff;
+    border-radius: 1vw;
+}
