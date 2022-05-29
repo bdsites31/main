@@ -1,0 +1,38 @@
+.center{
+    text-align: center;
+}
+
+.Banner {
+    color: white;
+	font-family:"courier";
+	font-weight: lighter;
+
+    font-size: 300%;
+}
+
+p.exp {
+    color: #c9c9c9;
+	font-family:"courier";
+	font-weight: lighter;
+    font-size: 120%;
+    line-height: 0;
+}
+
+.deftext {
+    color: #c9c9c9;
+	font-family:"courier";
+	font-weight: lighter;
+    font-size: 200%;
+    line-height: 1;
+}
+
+p.dllist {
+    text-indent: 20%;
+}
+
+.textbox1 {
+    margin: 1%;
+    padding: 3%;
+    border: 3px double #ffffff;
+    border-radius: 1vw;
+}

@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+.container{
+
+    width: auto;
+    height: 100%;
+
+    font-size: 1vw;
+    background-color: #222;
+}
+
+.header {
+    padding: 1%;
+    width: 100%;
+}
+
+.header-home {
+    position: absolute;
+    width: 5%;
+    padding: 1%;
+
+	font-family:"courier";
+	font-weight: lighter;
+    font-size: 150%;
+}
+
+img.logo {
+    width: 100%;
+}
+
+.white {
+    color: white;
+}
+
+
+
+.main {
+    margin: 5%;
+    padding: 1%;
+}
