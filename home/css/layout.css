@@ -5,7 +5,7 @@ body{
 .container{
     display: flex;
     width: auto;
-    height: auto;
+    height: max(auto,1vh);
 
     font-size: 1vw;
 }
