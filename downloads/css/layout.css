@@ -5,7 +5,7 @@ body{
 .container{
 
     width: auto;
-    height: 100%;
+    height: max(auto,100%);
 
     font-size: 1vw;
     background-color: #222;
