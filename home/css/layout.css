@@ -5,18 +5,18 @@ body{
 .container{
     display: flex;
     width: auto;
-    height: 100%;
+    height: auto;
 
     font-size: 1vw;
 }
 
 .side {
-    width: 15%;
+    width: 20%;
     padding: 2%;
     background-color: #333;
 }
 
 .main {
-    width: 85%;
+    width: 80%;
     background-color: #222;
 }

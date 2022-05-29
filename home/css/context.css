@@ -37,4 +37,46 @@ img.logo {
     padding: 3%;
     border: 3px double #ffffff;
     border-radius: 1vw;
+
+    margin-bottom: 40%;
+}
+
+.maintext {
+    color: #c9c9c9;
+	font-family:"courier";
+	font-weight: lighter;
+
+    font-size: 150%;
+    line-height: 1;
+}
+
+.main-textbox {
+    margin: 0 auto;
+    width: 70%;
+
+    padding: 3%;
+    border: 3px double #c9c9c9;
+    border-radius: 1vw;
+}
+
+img.siteimg {
+    width: 60%;
+}
+
+.news-topic {
+    color: #ff8787;
+	font-family:"courier";
+	font-weight: bold;
+    font-size: 200%;
+}
+
+.news {
+    margin: 0 auto;
+    width: 80%;
+
+    padding: 3%;
+    border: 5px double #ff8787;
+    border-radius: 1vw;
+
+    margin-bottom: 10%;
 }
