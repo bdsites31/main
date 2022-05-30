@@ -6,6 +6,10 @@ body{
 
     width: auto;
     height: auto;
+	
+	
+    position:relative;
+    min-height: 100%;
 
     font-size: 1vw;
     background-color: #222;
