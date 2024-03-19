@@ -59,6 +59,15 @@ img.logo {
     border-radius: 1vw;
 }
 
+.textbox_yellow {
+    margin: 0 auto;
+    width: 70%;
+
+    padding: 3%;
+    border: 3px double #c9c900;
+    border-radius: 1vw;
+}
+
 img.siteimg {
     width: 60%;
 }
